@@ -1,7 +1,8 @@
 
 ### Links
 
-[GitBook](https://yutakatay.gitbook.io/katapedia/)
+- [Profile](https://github.com/yutakatay)
+- [GitBook](https://yutakatay.gitbook.io/katapedia/)
 
 ### Blog
 
