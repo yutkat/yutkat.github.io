@@ -1,8 +1,8 @@
 
 ### Links
 
-- [Profile](https://github.com/yutakatay)
-- [GitBook](https://yutakatay.gitbook.io/katapedia/)
+- [Profile](https://github.com/yutkat)
+- [GitBook](https://yutkat.gitbook.io/katapedia/)
 
 ### Blog
 
@@ -20,4 +20,4 @@
 
 ### Activity
 
-<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/yutakatay?ref_src=twsrc%5Etfw">Tweets by yutakatay</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/yutkat?ref_src=twsrc%5Etfw">Tweets by yutkat</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
