@@ -1,1 +1,3 @@
 theme: jekyll-theme-midnight
+plugins: ['jekyll-twitter-plugin']
+whitelist: ['jekyll-twitter-plugin']
