@@ -1,4 +1,3 @@
-
 ### Links
 
 - [Profile](https://yutkat.github.io/yutkat/)
@@ -9,7 +8,3 @@
 - [zenn](https://zenn.dev/yutakatay)
 - [Qiita](http://qiita.com/yutkat)
 - [GitBook](https://yutkat.gitbook.io/katapedia/)
-
-### Twitter Activity
-
-{% twitter https://twitter.com/yutkat maxwidth=500 limit=5 %}
