@@ -1,7 +1,13 @@
 
 ### Links
 
-- [Profile](https://github.com/yutkat)
+- [Profile](https://yutkat.github.io/yutkat/)
+- [GitHub](https://github.com/yutkat)
+- [Twitter](http://twitter.com/yutkat)
+- [Reddit](https://www.reddit.com/user/yutkat)
+- [StackOverflow](https://stackoverflow.com/users/5720201/yutkat)
+- [zenn](https://zenn.dev/yutakatay)
+- [Qiita](http://qiita.com/yutkat)
 - [GitBook](https://yutkat.gitbook.io/katapedia/)
 
 ### Blog
