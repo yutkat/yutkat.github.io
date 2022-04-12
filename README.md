@@ -8,3 +8,7 @@
 - [zenn](https://zenn.dev/yutakatay)
 - [Qiita](http://qiita.com/yutkat)
 - [GitBook](https://yutkat.gitbook.io/katapedia/)
+
+### Twitter
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=yutkat)](https://github.com/gazf/github-readme-twitter)
