@@ -8,6 +8,11 @@
 - [zenn](https://zenn.dev/yutakatay)
 - [Qiita](http://qiita.com/yutkat)
 - [GitBook](https://yutkat.gitbook.io/katapedia/)
+- [Neovim discourse](https://neovim.discourse.group/u/yutkat/summary)
+- [Discord](https://discord.com/users/354653050566213634)
+- [Matrix.org](https://matrix.to/#/@yutkat:matrix.org)
+- [Youtube](https://www.youtube.com/channel/UCLHNh4UzgPbbnkQiUy0myYA)
+- [Twitch](https://www.twitch.tv/yutkat)
 
 ### Twitter
 
