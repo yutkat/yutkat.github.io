@@ -21,6 +21,7 @@
 - [Zenn(ja)](https://zenn.dev/yutakatay)
 - [Qiita(ja)](http://qiita.com/yutkat)
 - [My Wiki(ja)](https://yutkat.gitbook.io/katapedia/)
+- [dev.to](https://dev.to/yutkat)
 
 ### Video
 
