@@ -6,15 +6,15 @@
 ### Social
 
 - [GitHub](https://github.com/yutkat)
-- [Twitter(ja)](http://twitter.com/yutkat)
 - [Reddit](https://www.reddit.com/user/yutkat)
+- [Twitter(ja)](http://twitter.com/yutkat)
 
 ### Chat
 
-- [Gitter](https://gitter.im/yutkat)
 - [Discord](https://discord.com/users/354653050566213634)
 - [Matrix.org](https://matrix.to/#/@yutkat:matrix.org)
 - [Iris(Nostr)](https://iris.to/npub1yutkat7shelhe43al85y5gu2klexxs73r6r7ag5y7vsfy450yglqr0vdy6)
+- [Gitter](https://gitter.im/yutkat)
 
 ### Tech blog
 
@@ -31,7 +31,7 @@
 
 - [StackOverflow](https://stackoverflow.com/users/5720201/yutkat)
 - [Neovim discourse](https://neovim.discourse.group/u/yutkat/summary)
-- [Teratail](https://teratail.com/users/yutkat)
+- [Teratail(ja)](https://teratail.com/users/yutkat)
 
 ### Misc
 
