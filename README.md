@@ -23,6 +23,10 @@
 - [My Wiki(ja)](https://yutkat.gitbook.io/katapedia/)
 - [dev.to](https://dev.to/yutkat)
 
+### Slide
+
+- [SpeakerDeck(ja)](https://speakerdeck.com/yutkat)
+
 ### Video
 
 - [Youtube](https://www.youtube.com/channel/UCLHNh4UzgPbbnkQiUy0myYA)
