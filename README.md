@@ -26,6 +26,7 @@
 ### Slide
 
 - [SpeakerDeck(ja)](https://speakerdeck.com/yutkat)
+- [Docswell(ja)](https://www.docswell.com/user/yutkat)
 
 ### Video
 
