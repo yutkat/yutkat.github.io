@@ -8,12 +8,13 @@
 - [GitHub](https://github.com/yutkat)
 - [Reddit](https://www.reddit.com/user/yutkat)
 - [Twitter(ja)](http://twitter.com/yutkat)
+- [Iris(Nostr)](https://iris.to/yutkat.github.io)
+- [Mastodon](https://hachyderm.io/@yutkat)
 
 ### Chat
 
 - [Discord](https://discord.com/users/354653050566213634)
 - [Matrix.org](https://matrix.to/#/@yutkat:matrix.org)
-- [Iris(Nostr)](https://iris.to/npub1yutkat7shelhe43al85y5gu2klexxs73r6r7ag5y7vsfy450yglqr0vdy6)
 - [Gitter](https://gitter.im/yutkat)
 
 ### Tech blog
