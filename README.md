@@ -9,7 +9,12 @@
 - [Reddit](https://www.reddit.com/user/yutkat)
 - [Twitter(ja)](http://twitter.com/yutkat)
 - [Iris(Nostr)](https://iris.to/yutkat.github.io)
-- [Mastodon](https://hachyderm.io/@yutkat)
+- [T2](https://t2.social/yutkat)
+- Mastodon
+  - [hachyderm](https://hachyderm.io/@yutkat)
+- Misskey
+  - [misskey.systems](https://misskey.systems/@yutkat)
+  - [backspace.fm](https://misskey.backspace.fm/@yutkat)
 
 ### Chat
 
