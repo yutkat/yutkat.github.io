@@ -8,6 +8,7 @@
 - [GitHub](https://github.com/yutkat)
 - [Reddit](https://www.reddit.com/user/yutkat)
 - [Twitter(ja)](http://twitter.com/yutkat)
+- [Bluesky(ja)](https://bsky.app/profile/yutkat.bsky.social)
 - [Iris(Nostr)](https://iris.to/yutkat.github.io)
 - [T2](https://t2.social/yutkat)
 - Mastodon
