@@ -2,6 +2,7 @@
 
 - [Profile](https://yutkat.github.io/yutkat/)
 - [Keybase](https://keybase.io/yutkat)
+- [ko-fi](https://ko-fi.com/yutkat)
 
 ### Social
 
