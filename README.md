@@ -1,6 +1,6 @@
 ## Links
 
-- [Profile](https://yutkat.github.io/yutkat/)
+- [GitHub Profile](https://yutkat.github.io/yutkat/)
 - [Keybase](https://keybase.io/yutkat)
 - [ko-fi](https://ko-fi.com/yutkat)
 
@@ -57,6 +57,7 @@
 
 - [connpass(ja)](https://connpass.com/user/yutakatay/)
 
-## Twitter
+## Blog posts
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=yutkat&layout=wide&show_reply=off&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
