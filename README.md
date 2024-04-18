@@ -4,13 +4,13 @@
 
 - [GitHub Profile](https://yutkat.github.io/yutkat/)
 - [Keybase](https://keybase.io/yutkat)
-- [ko-fi](https://ko-fi.com/yutkat)
 
 ### Social
 
 - [GitHub](https://github.com/yutkat)
 - [Reddit](https://www.reddit.com/user/yutkat)
-- [Twitter(ja)](http://twitter.com/yutkat)
+- [X(ja)](http://twitter.com/yutkat)
+- [ko-fi](https://ko-fi.com/yutkat)
 - [Bluesky(ja)](https://bsky.app/profile/yutkat.bsky.social)
 - [Iris(Nostr)](https://iris.to/yutkat.github.io)
 - [T2](https://t2.social/yutkat)
@@ -58,6 +58,16 @@
 ### Old account name
 
 - [connpass(ja)](https://connpass.com/user/yutakatay/)
+
+## Product websites
+
+- [dotfiles](https://yutkat.github.io/dotfiles/)
+- [Knowledge base](https://yutkat.github.io/katapedia/)
+
+### Neovim
+
+- [my-neovim-pluginlist](https://yutkat.github.io/my-neovim-pluginlist/)
+- [new-neovim-plugin-with-category-rss](https://yutkat.github.io/new-neovim-plugin-with-category-rss/)
 
 ## Blog posts
 
