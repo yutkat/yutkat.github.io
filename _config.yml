@@ -1,4 +1,4 @@
-title: yutkat
+#title: yutkat
 description: yutkat's website
 logo: https://avatars.githubusercontent.com/u/8683947
 show_downloads: false
@@ -7,5 +7,5 @@ plugins:
 - jekyll-remote-theme
 google_analytics: G-LFN9ZWJFXX
 #theme: jekyll-theme-minimal
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: jekyll/minima
 include: [".well-known"]
