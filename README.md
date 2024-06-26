@@ -4,6 +4,7 @@
 
 - [GitHub Profile](https://yutkat.github.io/yutkat/)
 - [Keybase](https://keybase.io/yutkat)
+- [Linktree](https://linktr.ee/yutkat)
 
 ### Social
 
