@@ -3,7 +3,7 @@
 ## Links
 
 - [GitHub Profile](https://yutkat.github.io/yutkat/)
-- [Keybase](https://keybase.io/yutkat)
+- [Keyoxide](https://keyoxide.org/aspe%3Akeyoxide.org%3ANRW6FHHZ4HG6XF7LRBY2ICIZJM)
 - [Linktree](https://linktr.ee/yutkat)
 
 ### Social
