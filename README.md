@@ -13,7 +13,7 @@
 - [X(ja)](http://twitter.com/yutkat)
 - [ko-fi](https://ko-fi.com/yutkat)
 - [Bluesky(ja)](https://bsky.app/profile/yutkat.github.io)
-- [Iris(Nostr)](https://iris.to/yutkat.github.io)
+- [nostter(Nostr)](https://nostter.app/yutkat.github.io)
 - [T2](https://t2.social/yutkat)
 - Mastodon
   - [hachyderm](https://hachyderm.io/@yutkat)
