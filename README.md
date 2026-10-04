@@ -72,13 +72,3 @@
 
 - [my-neovim-pluginlist](https://yutkat.github.io/my-neovim-pluginlist/)
 - [new-neovim-plugin-with-category-rss](https://yutkat.github.io/new-neovim-plugin-with-category-rss/)
-
-## Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [中二病エンジニアを支える技術](https://zenn.dev/yutakatay/articles/chuunibyou-engineer)
-- [Neovimプラグインをまともに選定できるリストを作った](https://zenn.dev/yutakatay/articles/neovim-pluginlist)
-- [ワシの使っているNeovimプラグインは200個近くあるぞ](https://zenn.dev/yutakatay/articles/neovim-plugins-2022)
-- [zshとNeovimの簡単な起動速度の測定方法](https://zenn.dev/yutakatay/articles/zsh-neovim-speedcheck)
-- [Neovimプラグインで不具合報告するのに便利な再現環境用minimal vimrcの作り方](https://zenn.dev/yutakatay/articles/neovim-minimal-config)
-<!-- BLOG-POST-LIST:END -->
