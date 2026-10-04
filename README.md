@@ -14,7 +14,6 @@
 - [ko-fi](https://ko-fi.com/yutkat)
 - [Bluesky(ja)](https://bsky.app/profile/yutkat.github.io)
 - [nostter(Nostr)](https://nostter.app/yutkat.github.io)
-- [T2](https://t2.social/yutkat)
 - Mastodon
   - [hachyderm](https://hachyderm.io/@yutkat)
 - Misskey
@@ -25,7 +24,6 @@
 
 - [Discord](https://discord.com/users/354653050566213634)
 - [Matrix.org](https://matrix.to/#/@yutkat:matrix.org)
-- [Gitter](https://gitter.im/yutkat)
 
 ### Tech blog
 
@@ -47,8 +45,6 @@
 ### Q&A
 
 - [StackOverflow](https://stackoverflow.com/users/5720201/yutkat)
-- [Neovim discourse](https://neovim.discourse.group/u/yutkat/summary)
-- [Teratail(ja)](https://teratail.com/users/yutkat)
 
 ### Misc
 
@@ -56,9 +52,16 @@
 - [Hatena(ja)](https://b.hatena.ne.jp/yutkat/)
 - [connpass(ja)](https://connpass.com/user/yutkat/)
 
-### Old account name
+<details markdown="1">
+<summary>Archived</summary>
 
-- [connpass(ja)](https://connpass.com/user/yutakatay/)
+- [T2](https://t2.social/yutkat)
+- [Gitter](https://gitter.im/yutkat)
+- [Neovim discourse](https://neovim.discourse.group/u/yutkat/summary)
+- [Teratail(ja)](https://teratail.com/users/yutkat)
+- [connpass(ja) (old account)](https://connpass.com/user/yutakatay/)
+
+</details>
 
 ## Product websites
 
