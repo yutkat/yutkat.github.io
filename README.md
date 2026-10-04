@@ -10,7 +10,7 @@
 
 - [GitHub](https://github.com/yutkat)
 - [Reddit](https://www.reddit.com/user/yutkat)
-- [X(ja)](http://twitter.com/yutkat)
+- [X(ja)](https://x.com/yutkat)
 - [ko-fi](https://ko-fi.com/yutkat)
 - [Bluesky(ja)](https://bsky.app/profile/yutkat.github.io)
 - [nostter(Nostr)](https://nostter.app/yutkat.github.io)
@@ -30,7 +30,7 @@
 ### Tech blog
 
 - [Zenn(ja)](https://zenn.dev/yutakatay)
-- [Qiita(ja)](http://qiita.com/yutkat)
+- [Qiita(ja)](https://qiita.com/yutkat)
 - [My Wiki(ja)](https://yutkat.gitbook.io/katapedia/)
 - [dev.to](https://dev.to/yutkat)
 
