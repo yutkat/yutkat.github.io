@@ -1,4 +1,9 @@
 {% include head-custom-google-analytics.html %}
+<link rel="icon" href="{{ site.logo }}">
+<!-- Verify profile links on Mastodon / Misskey -->
+<link rel="me" href="https://hachyderm.io/@yutkat">
+<link rel="me" href="https://misskey.systems/@yutkat">
+<link rel="me" href="https://misskey.backspace.fm/@yutkat">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Noto+Sans+JP:wght@400;600&display=swap">
@@ -9,10 +14,15 @@
   a { text-decoration: none; }
   a:hover, a:focus { text-decoration: underline; }
   summary { cursor: pointer; color: var(--clr-h-3-6); }
-  header img { width: 96px; height: 96px; border-radius: 50%; border: 1px solid var(--clr-visual-separation); }
   footer { display: none; }
-  div.wrapper { width: auto; max-width: 640px; margin: 0 auto; }
-  header, section { float: none; position: static; width: auto; }
-  header { text-align: center; padding: 0; }
-  header p.view { position: static; }
+  /* Single column: small avatar beside the site description, repo link at the bottom */
+  div.wrapper { width: auto; max-width: 640px; margin: 0 auto; padding-top: 3em; display: grid; grid-template-columns: auto 1fr; column-gap: 12px; align-items: center; }
+  header { display: contents; }
+  header img { grid-area: 1 / 1; width: 40px; height: 40px; border-radius: 50%; }
+  header h1 { display: none; }
+  header p:not(.view) { grid-area: 1 / 2; margin: 0; font-size: 1.6em; font-weight: 600; color: var(--clr-h1); }
+  header p.view { display: block; position: static; grid-column: 1 / -1; order: 1; font-size: .85em; text-align: right; }
+  section { grid-column: 1 / -1; float: none; position: static; width: auto; }
+  /* README's "# yutkat.github.io" duplicates the site title */
+  section > h1:first-child { display: none; }
 </style>
