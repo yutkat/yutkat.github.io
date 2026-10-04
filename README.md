@@ -65,10 +65,12 @@
 
 ## Product websites
 
+<!-- PRODUCT-LIST:START -->
+
 - [dotfiles](https://yutkat.github.io/dotfiles/)
-- [Knowledge base](https://yutkat.github.io/katapedia/)
-
-### Neovim
-
+- [katapedia](https://yutkat.github.io/katapedia/)
 - [my-neovim-pluginlist](https://yutkat.github.io/my-neovim-pluginlist/)
+- [new-neovim-plugin-rss](https://yutkat.github.io/new-neovim-plugin-rss/)
 - [new-neovim-plugin-with-category-rss](https://yutkat.github.io/new-neovim-plugin-with-category-rss/)
+
+<!-- PRODUCT-LIST:END -->
